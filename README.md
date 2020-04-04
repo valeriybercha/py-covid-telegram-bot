@@ -11,7 +11,7 @@ Telegram bot on Python with latest statistics information about the COVID-19 vir
 Usage:
 - Type the country name to receive statistics on specific country.
 - Type 'latest' or 'general' for overall statistics information.
-- Type 'info' if you want to know more about me.
+- Type 'info' for more information about the bot.
 - Type 'disclaimer' for disclaimer information
 
 NOTE: Current bot version supports only text format messages.
