@@ -1,6 +1,8 @@
 # py-covid-telegram-bot
 Telegram bot on Python with latest statistics information about the COVID-19 virus spread.
 
+Telegram bot in action: @covid_t_bot
+
 - Name: COVID-19 statistics bot
 - Telegram username: @covid_t_bot
 - Version: 0.1 (beta)
