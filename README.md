@@ -21,3 +21,6 @@ NOTE: Current bot version supports only text format messages.
 External used libraries:
 - pyTelegramBotAPI - https://pypi.org/project/pyTelegramBotAPI/
 - COVID19Py - https://pypi.org/project/COVID19Py/
+
+Screenshot:
+![Telegram-bot screenshot](https://github.com/valeriybercha/py-covid-telegram-bot/blob/master/screen.jpg)
